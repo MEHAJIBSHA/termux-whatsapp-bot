@@ -99,19 +99,6 @@ Example:
 "userDefaultLimit": "35"
 ```
 
----
-
-### (For PC/VPS/RDP)
-
-### (Download)
-
-- Download libwebp & tutorial [here](https://developers.google.com/speed/webp/download)
-- Download FFmpeg [here](https://ffmpeg.org/download.html) - Tutorial Installing [here](http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/)
-- Download Wget & tutorial [here](http://gnuwin32.sourceforge.net/packages/wget.htm)
-- Download tesseract-ocr [here](https://tesseract-ocr.github.io/tessdoc/Downloads.html) - Tutorial Installing [here](https://emop.tamu.edu/Installing-Tesseract-Windows8)
-- Download NodeJS [here](https://nodejs.org/en/download/)
-- Download Git [here](https://git-scm.com/downloads) - Tutorial Installing [here](https://phoenixnap.com/kb/how-to-install-git-windows)
-
 
 
 
